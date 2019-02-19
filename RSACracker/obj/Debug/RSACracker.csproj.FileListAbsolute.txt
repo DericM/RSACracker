@@ -1,0 +1,10 @@
+C:\Users\knome\source\repos\RSACracker\RSACracker\bin\Debug\RSACracker.exe.config
+C:\Users\knome\source\repos\RSACracker\RSACracker\bin\Debug\RSACracker.exe
+C:\Users\knome\source\repos\RSACracker\RSACracker\bin\Debug\RSACracker.pdb
+C:\Users\knome\source\repos\RSACracker\RSACracker\obj\Debug\RSACracker.csprojAssemblyReference.cache
+C:\Users\knome\source\repos\RSACracker\RSACracker\obj\Debug\RSACracker.csproj.CoreCompileInputs.cache
+C:\Users\knome\source\repos\RSACracker\RSACracker\obj\Debug\RSACracker.exe
+C:\Users\knome\source\repos\RSACracker\RSACracker\obj\Debug\RSACracker.pdb
+C:\Users\knome\source\repos\RSACracker\RSACracker\bin\Debug\System.ValueTuple.dll
+C:\Users\knome\source\repos\RSACracker\RSACracker\bin\Debug\System.ValueTuple.xml
+C:\Users\knome\source\repos\RSACracker\RSACracker\obj\Debug\RSACracker.csproj.CopyComplete
